@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Màu nền của nút chức năng -->
+    <solid android:color="#A9A9A9" /> <!-- Màu xám đậm cho nút chức năng -->
+
+    <!-- Bo góc nhẹ -->
+    <corners android:radius="8dp" />
+</shape>
